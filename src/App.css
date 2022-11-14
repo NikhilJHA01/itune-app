@@ -1,0 +1,58 @@
+
+body{
+  background-color: rgb(14 13 13 / 76%);
+
+}
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.container-fluid{
+  padding:20px;
+  max-width:1440px;
+  
+}
+.col{
+  margin-bottom: 10px;
+}
+.card{
+  border:none  !important;
+  background-color: #f4f8fd !important;
+  border-radius: 5px !important;
+  box-shadow: 5px 5px 20px #888b8f;
+
+}
+
+.card-title{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.card-subtitle{
+padding-bottom: 15px;
+}
+
+svg{
+  padding:0 2px;
+  font-size: 20px;
+}
+
+.form-select{
+  padding:10px;
+  outline:none;
+  border:1px solid #ced4da;
+  border-radius: 0.25rem;
+  width:200px;
+  box-shadow: 5px 5px 10px #888b8f;
+}
+.form-control{
+  outline:none;
+  margin-top: 2px;
+  border:1px solid #ced4da;
+  box-shadow: 5px 5px 10px #888b8f;
+}
+.form-control:focus{
+  border:1px solid #ced4da !important;
+  box-shadow: 5px 5px 10px #888b8f !important;
+}
+

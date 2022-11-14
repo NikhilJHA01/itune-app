@@ -1,0 +1,13 @@
+.favorites{
+    display: flex;
+    width: 100%;
+    padding: 20px 0;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    justify-content: flex-start;
+
+  }
+  
+  .favouriteIcon{
+    font-size:3rem;
+  }
