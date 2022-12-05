@@ -38,6 +38,7 @@ Used to improve performance:
 
 1. Debouncing
 2. Lazy loading of images using Intersection observer api
+3. PWA app
 
 ## Available Scripts
 
